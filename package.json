@@ -1,0 +1,20 @@
+{
+  "name": "project3-bookmanagement",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hyderali1921/project3-BookManagement.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hyderali1921/project3-BookManagement/issues"
+  },
+  "homepage": "https://github.com/Hyderali1921/project3-BookManagement#readme"
+}
